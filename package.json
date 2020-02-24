@@ -1,0 +1,20 @@
+{
+  "name": "functional",
+  "version": "1.0.0",
+  "description": "A test",
+  "main": "test.js",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node test.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OldRobot/JSdocTest.git"
+  },
+  "author": "psmith",
+  "license": "MIT"
+}
