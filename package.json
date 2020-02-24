@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A test",
   "main": "test.js",
-  },
   "devDependencies": {},
   "scripts": {
     "start": "node test.js"
