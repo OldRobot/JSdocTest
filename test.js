@@ -18,3 +18,13 @@ function areaOfRectangle(l,w){
 function areaOfCircle(r){
     return 3.14159245 * r * r;
 }
+
+/**
+ * Calculates the area of a tringle
+ * @param {number} b base of the triangle
+ * @param {number} h the perpendicular height
+ * @returns the area of the triangle
+ */
+function areaOfTriangle(b,h){
+    return 0.5*b * h;
+}
